@@ -25,8 +25,10 @@ A range of graphics and animation for academic or business.
 <h2>REQUIREMENTS</h2>
 <ol>
   <li>Python 3 installed</li>
-  <li>tkinter installed</li>
+  <li>pandas installed</li>
   <li>matplotlib installed</li>
+  <li>numpy installed</li>
+  <li>scipy installed</li>
 </ol>
 <br /><br />
 <hr />
