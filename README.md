@@ -65,7 +65,7 @@
 
 <hr />
 
-[![harmonic](https://github.com/Weilory/python-matplotlib-graphs/blob/master/docs/jpg/harmonic.JPG)](https://github.com/Weilory/python-matplotlib-graphs/blob/master/graph/harmonic.py)
+[![harmonic](https://github.com/Weilory/python-matplotlib-graphs/blob/master/docs/png/harmonic.png)](https://github.com/Weilory/python-matplotlib-graphs/blob/master/graph/harmonic.py)
 
 <hr />
 
