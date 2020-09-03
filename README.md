@@ -69,6 +69,10 @@
 
 <hr />
 
+[![leo_harmonic](https://github.com/Weilory/python-matplotlib-graphs/blob/master/docs/png/Leo_harmonic.png)](https://github.com/Weilory/python-matplotlib-graphs/blob/master/graph/Leo_harmonic.py)
+
+<hr />
+
 <br />
 Based on python 3.7.3 matplotlib 3.2.1
 <br />
