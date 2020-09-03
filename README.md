@@ -65,6 +65,10 @@
 
 <hr />
 
+[![harmonic](https://github.com/Weilory/python-matplotlib-graphs/blob/master/docs/jpg/harmonic.JPG)](https://github.com/Weilory/python-matplotlib-graphs/blob/master/graph/harmonic.py)
+
+<hr />
+
 <br />
 Based on python 3.7.3 matplotlib 3.2.1
 <br />
