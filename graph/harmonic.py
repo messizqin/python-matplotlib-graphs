@@ -2,7 +2,8 @@ import pandas as pd
 from matplotlib import pyplot as plt
 import numpy as np
 
-xl_file = pd.ExcelFile('/Users/qinyiqi/PycharmProjects/Medium/graphics/Data for EPI.xlsx')
+epi_path = input('please input the Data for EPI.xlsx file path here: ')
+xl_file = pd.ExcelFile(epi_path)
 
 dfs = {sheet_name: xl_file.parse(sheet_name)
           for sheet_name in xl_file.sheet_names}
