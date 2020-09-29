@@ -1,8 +1,12 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from collections import Counter
+import random
 
-from Function.RandomColor import colors
+
+def random_color():
+    return "#%06x" % random.randint(0, 0xFFFFFF)
+
 
 path = input("please input the data.csv file path here: ")
 data = pd.read_csv(path)
@@ -17,7 +21,7 @@ for i in language_counter.most_common(15):
     languages.append(i[0])
     popularity.append(i[1])
 
-color = colors(len(languages))
+color = [random_color() for i in languages]
 
 horizontal = plt.barh(languages, popularity, edgecolor="k", color=color)
 
